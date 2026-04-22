@@ -1,3 +1,3 @@
-export function initDashboard() {
-  console.log("dashboard init");
+export function initDashboard(el: HTMLElement) {
+  el.innerHTML = "<h1>Dashboard</h1>";
 }
