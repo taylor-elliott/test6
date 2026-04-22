@@ -1,0 +1,3 @@
+export function initDashboard() {
+  console.log("dashboard init");
+}
