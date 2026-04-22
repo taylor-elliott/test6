@@ -1,6 +1,6 @@
 # Crag
 
-Privacy-first AI assistant. Version 0.1.0.
+Privacy-first AI assistant. Version 0.2.0.
 
 ## Setup
 
@@ -8,3 +8,7 @@ Privacy-first AI assistant. Version 0.1.0.
 npm install
 npm run dev
 ```
+
+## Agents
+
+See `src/agents.ts`.
